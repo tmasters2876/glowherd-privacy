@@ -111,8 +111,9 @@ If we change this policy in a material way, the new effective date will be shown
 
 ---
 
-## 9. Contact
+## 9. Contact and Support
 
+For help with Glowherd, email **thomasmasters@gmail.com** — usually a response within 24–48 hours.
 Questions, complaints, or requests:
 
 **Thomas Masters**
